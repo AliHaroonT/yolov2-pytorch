@@ -10,9 +10,11 @@ This repository aims to learn and understand the YOLO algorithm. I am a beginner
 ## Purpose
 
 - [x] train pascal voc
+- [x] train custom dataset
 - [x] multi-GPUs support
 - [x] test
 - [x] pascal voc validation
+- [x] custom dataset validation
 - [x] data augmentation
 - [x] pretrained network
 - [x] reorg layer
